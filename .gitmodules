@@ -5,6 +5,3 @@
 [submodule "productivity"]
 	path = productivity
 	url = https://github.com/cran/productivity
-[submodule "sfadv"]
-	path = sfadv
-	url = https://github.com/cran/sfadv
